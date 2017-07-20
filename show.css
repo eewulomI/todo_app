@@ -1,0 +1,67 @@
+html{
+  color:silver;
+  font-family:arial;
+ 
+}
+
+h1{
+  background-color:green;
+}
+
+p{
+  color:orange;
+  background-color:blue;
+}
+
+.first{
+  color:blue;
+  font-style: italic;
+  }
+
+.bama{
+  color:orange;
+  font-weight: bold;
+  border-style: solid;
+  text-align: center;
+  
+}
+
+p{
+  background-color:white;
+  border-style: solid;
+  border-color: green
+}
+
+.second{
+  color:yellow;
+}
+
+html{
+  background-color:black;
+  text-decoration:gold underline;
+ 
+.style{
+color: blue;
+}
+
+.str:hover{
+color: blue;
+}
+  
+  
+.str{
+color:orange;
+}
+  
+ .str:active {
+    color: white;
+}
+  
+#add-new-todo-button{
+    font-size:20px;
+     text-align:center;
+     color:green;
+    background-color:magenta;
+   
+  }  
+  
